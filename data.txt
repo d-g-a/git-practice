@@ -1,3 +1,4 @@
 Name: Diego Guerrero Alexander
 Age: 29
 Favorite Color: Pink
+Favorite City: Los Angeles
